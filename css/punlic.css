@@ -1,0 +1,30 @@
+.tabs-top>.tabs{
+				top:0px;
+			}
+			.lisst{
+				padding-top: 55px;
+			}
+			.item-input-inset{
+				padding: 3px;
+			}
+			.iconw{
+				border-radius:50%;
+			}
+			.iconw img{
+				width: 70%;
+				height: 70%;
+				border-radius:50%;
+			}
+.workaa{
+	margin-top: 10px;
+}	
+.workbb{
+	padding-top: 80px;
+}	
+.userlist{
+	padding-top: 10px;
+	}	
+.disbl{
+	display: inline;
+}
+			
